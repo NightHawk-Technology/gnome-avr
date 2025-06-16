@@ -8,17 +8,17 @@
 
 // Pin definitions
 #define PWMA 10
-#define AI1 A2
-#define AI2 A3
+#define AI1 A0
+#define AI2 A1
 #define PWMB 11
-#define BI1 8
-#define BI2 9
+#define BI1 A2
+#define BI2 A3
 #define MISO_PIN 12
 #define MOSI_PIN 8
 #define SS_PIN 4
 #define SCK_PIN 13
 #define RUN 2
-#define KNOB A1
+#define KNOB A6
 #define SV0_PIN 3
 #define SV1_PIN 5
 #define SV2_PIN 6
